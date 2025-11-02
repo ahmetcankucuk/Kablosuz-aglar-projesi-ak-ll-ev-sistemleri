@@ -1,3 +1,3 @@
-# Kablosuz-aglar-projesi-akilli-ev-sistemleri
+# Kablosuz-aglar-projesi-kablosuz alarm sistemi 
 Bu kod, bir ESP32 kartı (veya benzeri bir Wi-Fi özellikli mikrodenetleyici) için yazılmış, hareket algılayıp MQTT protokolü üzerinden bir sunucuya bilgi gönderen bir programdır.
-Emeği Geçenler Oktay Kaya-Ahmet Can Küçük-Abdulbaki Pişirici-Emin Yazar-Ceyda Uzun-İrem Utuş
+Emeği Geçenler Oktay Kaya-Ahmet Can Küçük-Abdulbaki Pişirici-Muhammed Emin Yazar-Ceyda Uzun-İrem Utuş
